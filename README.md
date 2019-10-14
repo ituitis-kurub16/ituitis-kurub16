@@ -1,2 +1,2 @@
-# ituitis-kurub16
+# assignment1-ituitis-kurub16
 Assignment1
